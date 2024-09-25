@@ -14,3 +14,11 @@ https://github.com/user-attachments/assets/73de2278-210c-4374-919d-73704e0e0c0a
 ### Version 2: Navigation using Max Contour Area's Centre Point
 
 ![AuCar-v2](https://github.com/user-attachments/assets/46776ac8-1544-46b3-bc08-559635bca657)
+
+### Version 3: Integration of Midas on PiCar
+
+https://github.com/user-attachments/assets/9c0429c4-fb6f-4f78-9b9b-901eb81c46d5
+
+
+
+
